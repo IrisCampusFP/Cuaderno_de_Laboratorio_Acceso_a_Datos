@@ -1,6 +1,6 @@
 Buscar 'github student' en el navegador -> https://education.github.com/pack
 
-![[github_student_pack.png]]
+>![](github_student_pack.png)
 
 Hacer clic en el botón verde 'Sign up for Student Developer Pack'
 
