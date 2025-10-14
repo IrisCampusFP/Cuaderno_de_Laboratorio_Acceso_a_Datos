@@ -70,7 +70,7 @@ public class LecturaSecuencial {
 }
 ```
 
-> ![](ejecucion_LecturaSecuencial.png)
+> ![](img/ejecucion_LecturaSecuencial.png)
 
 Este programa lee el archivo **línea por línea** hasta que ya no queden más (cuando `readLine()` devuelve `null`).
 
@@ -110,7 +110,7 @@ public class AccesoAleatorio {
 }
 ```
 
-> ![](ejecucion_AccesoAleatorio.png)
+> ![](img/ejecucion_AccesoAleatorio.png)
 
 **Nota**: La posición 20 significa el **byte número 20**, no la línea 20. Para acceder por líneas habría que recorrerlas.
 
@@ -240,7 +240,7 @@ public class RutasEjemplo {
     }
 }
 ```
-> ![](ejecucion_RutasEjemplo.png)
+> ![](img/ejecucion_RutasEjemplo.png)
 
 Este código construye una ruta de forma **portátil** y verifica si el archivo existe.
 
@@ -277,7 +277,7 @@ public class GuardarLeerTexto {
 }
 ```
 
-> ![](ejecucion_GuardarLeerTexto.png)
+> ![](img/ejecucion_GuardarLeerTexto.png)
 ## Resumen
 
 En este tema hemos aprendido que la persistencia de datos es esencial en cualquier aplicación. Java nos proporciona mecanismos básicos a través de las clases del paquete `java.io` para manejar archivos de texto o binarios, de forma secuencial o aleatoria.

@@ -1,4 +1,4 @@
-Una vez obtenido [GitHub Student](Solicitud_GitHub_Student.md), buscar en el navegador 'jetbrains student' y acceder a https://www.jetbrains.com/academy/student-pack/.
+Una vez obtenido [GitHub Student](Solicitud_GitHub_Student), buscar en el navegador 'jetbrains student' y acceder a https://www.jetbrains.com/academy/student-pack/.
 
 Hacer clic en el botón 'Request now'
 

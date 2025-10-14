@@ -9,4 +9,4 @@ Empezar una solicitud, introducir el centro y adjuntar una prueba de que estudia
 Esperar a que verifiquen la solicitud (alrededor de 72 horas)
 
 
-Una vez verificada la solicitud podremos [solicitar el pack de estudiante de JetBrains](Solicitud_JetBrains_Student.md)
+Una vez verificada la solicitud podremos [solicitar el pack de estudiante de JetBrains](Solicitud_JetBrains_Student)
