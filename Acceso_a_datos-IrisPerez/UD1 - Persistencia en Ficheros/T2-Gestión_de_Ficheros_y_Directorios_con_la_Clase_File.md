@@ -70,7 +70,7 @@ public class GestionArchivo {
     }
 }
 ```
-> ![[ejecucion_GestionArchivo.png]]
+> ![](img/ejecucion_GestionArchivo.png)
 
 ### 3. Gestión de directorios
 
@@ -117,11 +117,11 @@ public class GestionCarpeta {
 }
 ```
 
-> ![[ejecucion_GestionCarpeta.png]]
+> ![](img/ejecucion_GestionCarpeta.png)
 
 Pruebo a crear archivos dentro de la carpeta
 
-> ![[ejecucion2_GestionCarpeta.png]]
+> ![](img/ejecucion2_GestionCarpeta.png)
 
 ## Resumen
 

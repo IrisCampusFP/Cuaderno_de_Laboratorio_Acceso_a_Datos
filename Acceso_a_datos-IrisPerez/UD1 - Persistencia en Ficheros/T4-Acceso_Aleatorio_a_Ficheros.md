@@ -36,9 +36,9 @@ public class EscribirAleatorio {
 }
 ```
 
-> ![[UD1 - Persistencia en Ficheros/img/ejecucion_EscribirAleatorio.png]]
+> ![](img/ejecucion_EscribirAleatorio.png)
 
-> ![[ejecucion2_EscribirAleatorio.png]]
+> ![](img/ejecucion2_EscribirAleatorio.png)
 
 ## Lectura desde una posición específica
 
@@ -68,7 +68,7 @@ public class LeerAleatorio {
 }
 ```
 
-> ![[ejecucion_LeerAleatorio.png]]
+> ![](img/ejecucion_LeerAleatorio.png)
 
 ## Consideraciones importantes
 
