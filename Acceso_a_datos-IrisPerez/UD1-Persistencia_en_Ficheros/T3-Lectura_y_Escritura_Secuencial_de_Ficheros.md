@@ -42,11 +42,11 @@ public class EscrituraFichero {
 }
 ```
 
-> ![](img/ejecucion_EscrituraFichero.png)
+> ![](ejecucion_EscrituraFichero.png)
 
 (Se ha creado el archivo salida.txt en la carpeta datos)
 
-> ![](img/ejecucion2_EscrituraFichero.png)         ![](img/ejecucion3_EscrituraFichero.png)
+> ![](ejecucion2_EscrituraFichero.png)         ![](ejecucion3_EscrituraFichero.png)
 
 ## Lectura secuencial de ficheros
 
@@ -80,7 +80,7 @@ public class LecturaFichero {
 }
 ```
 
-> ![](img/ejecucion_LecturaFichero.png)
+> ![](ejecucion_LecturaFichero.png)
 
 ## Consideraciones importantes
 

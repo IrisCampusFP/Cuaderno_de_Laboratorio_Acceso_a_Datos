@@ -36,9 +36,9 @@ public class EscribirAleatorio {
 }
 ```
 
-> ![](img/ejecucion_EscribirAleatorio.png)
+> ![](ejecucion_EscribirAleatorio.png)
 
-> ![](img/ejecucion2_EscribirAleatorio.png)
+> ![](ejecucion2_EscribirAleatorio.png)
 
 ## Lectura desde una posición específica
 
@@ -68,7 +68,7 @@ public class LeerAleatorio {
 }
 ```
 
-> ![](img/ejecucion_LeerAleatorio.png)
+> ![](ejecucion_LeerAleatorio.png)
 
 ## Consideraciones importantes
 

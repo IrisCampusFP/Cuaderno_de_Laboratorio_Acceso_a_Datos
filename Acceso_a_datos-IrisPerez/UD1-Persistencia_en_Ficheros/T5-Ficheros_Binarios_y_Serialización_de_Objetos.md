@@ -47,11 +47,11 @@ class Persona implements Serializable {
 }
 ```
 
-> ![](img/ejecucion_EscribirObjeto.png)
+> ![](ejecucion_EscribirObjeto.png)
 
 (Se ha creado el objeto serializado en la carpeta datos)
 
-> ![](img/ejecucion2_EscribirObjeto.png)
+> ![](ejecucion2_EscribirObjeto.png)
 
 ## Lectura de objetos (deserialización)
 
@@ -71,7 +71,7 @@ public class LeerObjeto {
 }
 ```
 
-> ![](img/ejecucion_LeerObjeto.png)
+> ![](ejecucion_LeerObjeto.png)
 
 ## Ventajas de la serialización
 
