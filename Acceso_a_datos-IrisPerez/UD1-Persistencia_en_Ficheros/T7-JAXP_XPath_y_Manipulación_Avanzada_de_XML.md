@@ -1,3 +1,5 @@
+# Tema 7: JAXP, XPath y Manipulación Avanzada de XML
+
 **Descripción**  
 Este tema explora el uso de JAXP como API estándar para el procesamiento de XML en Java, y se introduce XPath como lenguaje de consulta para navegar y extraer información de documentos XML. Se verán ejemplos aplicados de filtrado y búsqueda de nodos.
 
@@ -70,7 +72,7 @@ public class XPathEjemplo {
 }
 ```
 
-> ![](ejecucion_XPathEjemplo.png)
+> ![](img/ejecucion_XPathEjemplo.png)
 
 ## Resumen
 

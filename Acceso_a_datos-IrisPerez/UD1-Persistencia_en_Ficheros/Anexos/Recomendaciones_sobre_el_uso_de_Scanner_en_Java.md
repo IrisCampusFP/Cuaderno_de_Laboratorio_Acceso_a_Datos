@@ -1,3 +1,5 @@
+# Recomendaciones sobre el uso de Scanner en Java
+
 Has compartido una serie de recomendaciones muy acertadas sobre el uso de la clase `Scanner` en Java. A continuación se explican en profundidad con ejemplos y justificación técnica.
 
 ## 1. Cerrar siempre con `sc.close()` para liberar recursos

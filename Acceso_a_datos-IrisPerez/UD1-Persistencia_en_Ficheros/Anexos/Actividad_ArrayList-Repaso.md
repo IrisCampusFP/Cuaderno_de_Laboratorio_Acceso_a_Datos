@@ -1,3 +1,5 @@
+# REPASO: ArrayList en Java - Actividad Guiada
+
 ## 1. Recordatorio: ¿Qué es un ArrayList?
 
 **ArrayList** es una clase de Java que implementa una **lista dinámica**. A diferencia de los arrays tradicionales, puede crecer y decrecer en tamaño automáticamente.

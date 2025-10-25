@@ -1,3 +1,5 @@
+# Tema 6: Lectura y Escritura de Ficheros XML
+
 **Descripción**  
 Este tema aborda el tratamiento de ficheros XML en Java, presentando los distintos modelos de análisis disponibles: DOM, SAX y StAX, así como APIs modernas como JAXP y JAXB. También se introducen conceptos como XPath y el uso de POJOs para mapear estructuras XML.
 
@@ -65,7 +67,7 @@ public class LeerXML_DOM {
 }
 ```
 
-> ![](ejecucion_LeerXML_DOM.png)
+> ![](img/ejecucion_LeerXML_DOM.png)
 
 ## Lectura con SAX (manejador de eventos)
 
@@ -113,7 +115,7 @@ public class LeerXML_SAX {
 
 ```
 
-> ![](ejecucion_LeerXML_SAX.png)
+> ![](img/ejecucion_LeerXML_SAX.png)
 
 ## Resumen
 

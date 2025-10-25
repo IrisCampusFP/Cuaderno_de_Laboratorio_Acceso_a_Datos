@@ -1,3 +1,5 @@
+# Unidad Extra: La clase `Scanner` en Java
+
 ## Descripción
 
 La clase `Scanner`, introducida en Java 5 y perteneciente al paquete `java.util`, es una de las herramientas más utilizadas para **leer datos de diferentes fuentes**: teclado, archivos, cadenas de texto o incluso flujos de entrada (`InputStream`).

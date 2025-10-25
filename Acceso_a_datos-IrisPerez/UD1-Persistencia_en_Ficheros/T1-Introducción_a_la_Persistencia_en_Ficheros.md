@@ -1,3 +1,5 @@
+# Tema 1: Introducción a la Persistencia en Ficheros
+
 **Descripción**  
 Este tema aborda los fundamentos del almacenamiento persistente utilizando ficheros en Java. Estudiaremos qué es la persistencia, por qué es necesaria y cómo se implementa mediante el sistema de ficheros. También se introduce el concepto de acceso secuencial y acceso aleatorio.
 
@@ -110,7 +112,7 @@ public class AccesoAleatorio {
 }
 ```
 
-> ![](ejecucion_AccesoAleatorio.png)
+> ![](img/ejecucion_AccesoAleatorio.png)
 
 **Nota**: La posición 20 significa el **byte número 20**, no la línea 20. Para acceder por líneas habría que recorrerlas.
 
@@ -240,7 +242,7 @@ public class RutasEjemplo {
     }
 }
 ```
-> ![](ejecucion_RutasEjemplo.png)
+> ![](img/ejecucion_RutasEjemplo.png)
 
 Este código construye una ruta de forma **portátil** y verifica si el archivo existe.
 
@@ -277,7 +279,7 @@ public class GuardarLeerTexto {
 }
 ```
 
-> ![](ejecucion_GuardarLeerTexto.png)
+> ![](img/ejecucion_GuardarLeerTexto.png)
 ## Resumen
 
 En este tema hemos aprendido que la persistencia de datos es esencial en cualquier aplicación. Java nos proporciona mecanismos básicos a través de las clases del paquete `java.io` para manejar archivos de texto o binarios, de forma secuencial o aleatoria.

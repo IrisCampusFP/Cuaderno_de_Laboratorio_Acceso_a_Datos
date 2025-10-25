@@ -125,12 +125,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T1-Introducción_a_la_Persistencia_en_Ficheros.md",
+                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Introduccion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T1-Introducción_a_la_Persistencia_en_Ficheros"
+              "title": "Introduccion"
+            }
+          },
+          {
+            "id": "abbb62f80b77ef3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Introduccion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduccion"
+            }
+          },
+          {
+            "id": "563de10ab0efd136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T7.2-XPath_en_profundidad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "T7.2-XPath_en_profundidad"
             }
           },
           {
@@ -242,7 +270,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -391,22 +419,30 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "cc98957e43b6509a",
+  "active": "563de10ab0efd136",
   "lastOpenFiles": [
+    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T7.1-Profundización_en_JAXP.md",
+    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T7-JAXP_XPath_y_Manipulación_Avanzada_de_XML.md",
+    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T6.2-Procesamiento_XML_con_SAX.md",
+    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T6.1-Procesamiento_XML_con_DOM.md",
+    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T6-Lectura_y_escritura_de_Ficheros_XML.md",
+    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T5-Ficheros_Binarios_y_Serialización_de_Objetos.md",
+    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T4.1-Alternativa_moderna_con_NIO.md",
+    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T4-Acceso_Aleatorio_a_Ficheros.md",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T3-Lectura_y_Escritura_Secuencial_de_Ficheros.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Anexos/Actividad_ArrayList-Repaso.md",
+    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T2-Gestión_de_Ficheros_y_Directorios_con_la_Clase_File.md",
+    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T1-Introducción_a_la_Persistencia_en_Ficheros.md",
+    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Introduccion.md",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Anexos/Recomendaciones_sobre_el_uso_de_Scanner_en_Java.md",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Anexos/Exportación_de_datos-CSV_XML_JSON.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T1-Introducción_a_la_Persistencia_en_Ficheros.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T7.2-XPath_en_profundidad.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T6.2-Procesamiento_XML_con_SAX.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Introduccion.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T6.1-Procesamiento_XML_con_DOM.md",
-    "Sin nombre",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T6-Lectura_y_escritura_de_Ficheros_XML.md",
+    "Acceso_a_datos-IrisPerez/UD0-Solicitar_packs_de_estudiante/Solicitud_JetBrains_Student.md",
+    "Acceso_a_datos-IrisPerez/UD0-Solicitar_packs_de_estudiante/Solicitud_GitHub_Student.md",
+    "contenidos.md",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Extra-La_clase_Scanner_en_Java.md",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/ActividadesUD1.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T7.1-Profundización_en_JAXP.md",
+    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Anexos/Actividad_ArrayList-Repaso.md",
+    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T7.2-XPath_en_profundidad.md",
+    "Sin nombre",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_JAXP_DOM.png",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/mapa_mental_jaxp.png",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_XPathAvanzado.png",
@@ -414,24 +450,16 @@
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_JAXP_Validacion.png",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_JAXP_SAX.png",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_XPathEjemplo.png",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T7-JAXP_XPath_y_Manipulación_Avanzada_de_XML.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T5-Ficheros_Binarios_y_Serialización_de_Objetos.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T4.1-Alternativa_moderna_con_NIO.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T4-Acceso_Aleatorio_a_Ficheros.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T2-Gestión_de_Ficheros_y_Directorios_con_la_Clase_File.md",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_DOMEscribirEjemplo.png",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_SAXEjemplo.png",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion2_DOMLeerEjemplo.png",
     "Pasted.md",
-    "Acceso_a_datos-IrisPerez/UD0-Solicitar_packs_de_estudiante/Solicitud_JetBrains_Student.md",
-    "Acceso_a_datos-IrisPerez/UD0-Solicitar_packs_de_estudiante/Solicitud_GitHub_Student.md",
     "Acceso_a_datos_IrisPerez/UD0 - Solicitar packs de estudiante/Solicitud GitHub Student.md",
     "Acceso_a_datos-IrisPerez/UD1 - Persistencia en Ficheros/T1 - Introducción a la persistencia en Ficheros/ApuntesT1.md",
     "Acceso_a_datos-IrisPerez/UD1 - Persistencia en Ficheros/Actividades/T1.1_LecturaSecuencial_y_AccesoAleatorio.md",
     "Acceso_a_datos-IrisPerez/UD1 - Persistencia en Ficheros/T1 - Introducción a la persistencia en Ficheros",
     "Acceso_a_datos-IrisPerez/UD1 - Persistencia en Ficheros/Actividades",
     "Acceso_a_datos-IrisPerez/UD0 - Solicitar packs de estudiante/Solicitud JetBrains Student Pack.md",
-    "Acceso_a_datos-IrisPerez/UD0 - Solicitar packs de estudiante/Solicitud GitHub Student.md",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros",
     "Acceso_a_datos-IrisPerez/UD0-Solicitar_packs_de_estudiante",
     "Acceso_a_datos-IrisPerez/img",

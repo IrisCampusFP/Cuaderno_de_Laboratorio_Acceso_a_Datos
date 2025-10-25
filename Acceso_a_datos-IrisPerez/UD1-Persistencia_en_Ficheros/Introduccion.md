@@ -1,3 +1,5 @@
+# INTRODUCCIÓN
+
 Fecha: 16/09/2025
 
 Esta unidad introduce los conceptos fundamentales de persistencia de datos mediante el uso de ficheros en Java. Se abordan técnicas de acceso secuencial y aleatorio, así como el tratamiento de ficheros de texto, binarios, y estructuras XML. Se utilizarán las clases del paquete `java.io` y técnicas de lectura/escritura eficientes y seguras.
@@ -55,7 +57,6 @@ La **persistencia en ficheros** permite almacenar información de forma permanen
 - Implementar programas que manipulen archivos de texto y binarios.
     
 - Aplicar técnicas de serialización de objetos y manipulación de ficheros XML con DOM, SAX y JAXB.
-
 
 ## Guion de contenidos de la UD1
 

@@ -1,3 +1,5 @@
+# Tema 3: Lectura y Escritura Secuencial de Ficheros
+
 **Descripción**  
 Este tema se centra en las operaciones básicas de lectura y escritura secuencial sobre archivos de texto en Java. Utilizaremos las clases `FileReader`, `BufferedReader`, `FileWriter` y `BufferedWriter` para manipular datos de manera eficiente.
 
@@ -42,11 +44,11 @@ public class EscrituraFichero {
 }
 ```
 
-> ![](ejecucion_EscrituraFichero.png)
+> ![](img/ejecucion_EscrituraFichero.png)
 
 (Se ha creado el archivo salida.txt en la carpeta datos)
 
-> ![](ejecucion2_EscrituraFichero.png)         ![](ejecucion3_EscrituraFichero.png)
+> ![](img/ejecucion2_EscrituraFichero.png)         ![](img/ejecucion3_EscrituraFichero.png)
 
 ## Lectura secuencial de ficheros
 
@@ -80,7 +82,7 @@ public class LecturaFichero {
 }
 ```
 
-> ![](ejecucion_LecturaFichero.png)
+> ![](img/ejecucion_LecturaFichero.png)
 
 ## Consideraciones importantes
 

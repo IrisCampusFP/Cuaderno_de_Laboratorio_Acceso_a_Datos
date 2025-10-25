@@ -1,3 +1,5 @@
+# Tema 5: Ficheros Binarios y Serialización de Objetos
+
 **Descripción**  
 Este tema se centra en el tratamiento de ficheros binarios y en la serialización de objetos en Java, permitiendo guardar estructuras complejas (como listas, objetos y árboles) en disco y recuperarlas más tarde.
 
@@ -47,11 +49,11 @@ class Persona implements Serializable {
 }
 ```
 
-> ![](ejecucion_EscribirObjeto.png)
+> ![](img/ejecucion_EscribirObjeto.png)
 
 (Se ha creado el objeto serializado en la carpeta datos)
 
-> ![](ejecucion2_EscribirObjeto.png)
+> ![](img/ejecucion2_EscribirObjeto.png)
 
 ## Lectura de objetos (deserialización)
 
@@ -71,7 +73,7 @@ public class LeerObjeto {
 }
 ```
 
-> ![](ejecucion_LeerObjeto.png)
+> ![](img/ejecucion_LeerObjeto.png)
 
 ## Ventajas de la serialización
 

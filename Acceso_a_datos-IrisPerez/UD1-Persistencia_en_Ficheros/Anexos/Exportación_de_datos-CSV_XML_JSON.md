@@ -1,6 +1,6 @@
 
 
-> [!NOTE] Apuntes *exportación de ficheros*
+> [!NOTE] *Apuntes* EXPORTACIÓN DE FICHEROS
 > https://github.com/CampusFP-dvs/CapituloExportacion_COMPLETO
 
 

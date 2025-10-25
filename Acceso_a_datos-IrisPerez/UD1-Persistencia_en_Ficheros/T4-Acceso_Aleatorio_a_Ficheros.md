@@ -1,3 +1,5 @@
+# Tema 4: Acceso Aleatorio a Ficheros
+
 **Descripción**  
 Este tema trata sobre cómo acceder a posiciones específicas dentro de un archivo utilizando la clase `RandomAccessFile` de Java. Este tipo de acceso es ideal cuando se necesita leer o escribir en ubicaciones concretas sin procesar todo el archivo secuencialmente.
 
@@ -34,9 +36,9 @@ public class EscribirAleatorio {
 }
 ```
 
-> ![](ejecucion_EscribirAleatorio.png)
+> ![](img/ejecucion_EscribirAleatorio.png)
 
-> ![](ejecucion2_EscribirAleatorio.png)
+> ![](img/ejecucion2_EscribirAleatorio.png)
 
 ## Lectura desde una posición específica
 
