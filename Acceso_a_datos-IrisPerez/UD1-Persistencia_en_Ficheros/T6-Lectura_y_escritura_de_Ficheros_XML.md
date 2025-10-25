@@ -65,6 +65,8 @@ public class LeerXML_DOM {
 }
 ```
 
+> ![](ejecucion_LeerXML_DOM.png)
+
 ## Lectura con SAX (manejador de eventos)
 
 ```java
@@ -110,6 +112,9 @@ public class LeerXML_SAX {
 }
 
 ```
+
+> ![](ejecucion_LeerXML_SAX.png)
+
 ## Resumen
 
 Java ofrece distintas estrategias para leer y manipular XML. La elección depende de:

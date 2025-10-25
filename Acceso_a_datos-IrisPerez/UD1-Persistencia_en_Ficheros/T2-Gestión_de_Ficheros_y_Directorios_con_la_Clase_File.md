@@ -1,5 +1,3 @@
-# Tema 2: Gestión de Ficheros y Directorios con la Clase File
-
 **Descripción**  
 Este tema aborda el uso de la clase `File` del paquete `java.io`, fundamental para gestionar archivos y carpetas en Java. Aprenderemos a crear, renombrar, eliminar y comprobar la existencia de ficheros, así como a explorar directorios.
 
@@ -70,7 +68,7 @@ public class GestionArchivo {
     }
 }
 ```
-> ![](img/ejecucion_GestionArchivo.png)
+> ![](ejecucion_GestionArchivo.png)
 
 ### 3. Gestión de directorios
 
@@ -117,11 +115,11 @@ public class GestionCarpeta {
 }
 ```
 
-> ![](img/ejecucion_GestionCarpeta.png)
+> ![](ejecucion_GestionCarpeta.png)
 
 Pruebo a crear archivos dentro de la carpeta
 
-> ![](img/ejecucion2_GestionCarpeta.png)
+> ![](ejecucion2_GestionCarpeta.png)
 
 ## Resumen
 

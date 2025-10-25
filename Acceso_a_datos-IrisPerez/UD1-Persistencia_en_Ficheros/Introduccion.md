@@ -79,15 +79,23 @@ La **persistencia en ficheros** permite almacenar información de forma permanen
 
 - [[T6.2-Procesamiento_XML_con_SAX]]
 
-- **7. JAXP, XPath y manipulación con consultas**
+- [[T7-JAXP_XPath_y_Manipulación_Avanzada_de_XML]]
+
+- [[T7.1-Profundización_en_JAXP]]
+
+- [[T7.2-XPath_en_profundidad]]
     
-- **8. Binding XML ↔ Java con JAXB y uso de POJOs**
+- **8. JAXB - Mapeo de Objetos Java a XML y Viceversa
     
-- **9. Buenas prácticas: rutas relativas, buffers y portabilidad**
+- **9. Buenas prácticas: Rutas relativas, buffers y portabilidad**
     
 - [[ActividadesUD1|Actividades prácticas y ejercicios de evaluación]]
 
 ### Anexos:
 
 - [[Recomendaciones_sobre_el_uso_de_Scanner_en_Java]]
+
+- [[Actividad_ArrayList-Repaso]]
+
+- [[Exportación_de_datos-CSV_XML_JSON]]
 

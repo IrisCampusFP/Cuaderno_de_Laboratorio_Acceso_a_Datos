@@ -47,11 +47,11 @@ class Persona implements Serializable {
 }
 ```
 
-> ![](img/ejecucion_EscribirObjeto.png)
+> ![](ejecucion_EscribirObjeto.png)
 
 (Se ha creado el objeto serializado en la carpeta datos)
 
-> ![](img/ejecucion2_EscribirObjeto.png)
+> ![](ejecucion2_EscribirObjeto.png)
 
 ## Lectura de objetos (deserialización)
 
@@ -71,7 +71,7 @@ public class LeerObjeto {
 }
 ```
 
-> ![](img/ejecucion_LeerObjeto.png)
+> ![](ejecucion_LeerObjeto.png)
 
 ## Ventajas de la serialización
 
@@ -93,10 +93,10 @@ public class LeerObjeto {
 
 ## Tabla resumen
 
-|Clase|Descripción|
-|---|---|
-|`Serializable`|Interfaz que marca una clase como serializable|
-|`ObjectOutputStream`|Permite escribir objetos en un flujo binario|
-|`ObjectInputStream`|Permite leer objetos desde un flujo binario|
-|`writeObject(obj)`|Serializa un objeto y lo guarda en el archivo|
-|`readObject()`|Recupera el objeto previamente serializado|
+| Clase                | Descripción                                    |
+| -------------------- | ---------------------------------------------- |
+| `Serializable`       | Interfaz que marca una clase como serializable |
+| `ObjectOutputStream` | Permite escribir objetos en un flujo binario   |
+| `ObjectInputStream`  | Permite leer objetos desde un flujo binario    |
+| `writeObject(obj)`   | Serializa un objeto y lo guarda en el archivo  |
+| `readObject()`       | Recupera el objeto previamente serializado     |
