@@ -70,7 +70,7 @@ public class LecturaSecuencial {
 }
 ```
 
-> ![](ejecucion_LecturaSecuencial.png)
+> ![](img/ejecucion_LecturaSecuencial.png)
 
 Este programa lee el archivo **línea por línea** hasta que ya no queden más (cuando `readLine()` devuelve `null`).
 
