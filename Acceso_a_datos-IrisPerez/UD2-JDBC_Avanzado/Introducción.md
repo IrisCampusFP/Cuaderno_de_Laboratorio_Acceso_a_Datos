@@ -183,55 +183,55 @@ Un sistema de gestión de empleados y proyectos combina:
 
 ## Guion de contenidos de la UD2 - JDBC Avanzado
 
-- [Cuadro_Global–UD2-JDBC_Avanzado](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Cuadro_Global–UD2-JDBC_Avanzado.md)
+- [Cuadro_Global–UD2-JDBC_Avanzado](Cuadro_Global–UD2-JDBC_Avanzado.md)
 
-- [Relación_de_la_Actividad_Global_con_RA_y_CE](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Relación_de_la_Actividad_Global_con_RA_y_CE.md)
+- [Relación_de_la_Actividad_Global_con_RA_y_CE](Relación_de_la_Actividad_Global_con_RA_y_CE.md)
 
-- [Tema1–JDBC_Avanzado-Pool_DDL-DML_Consultas_Procedimientos_y_Transacciones](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema1–JDBC_Avanzado-Pool_DDL-DML_Consultas_Procedimientos_y_Transacciones.md)
+- [Tema1–JDBC_Avanzado-Pool_DDL-DML_Consultas_Procedimientos_y_Transacciones](Tema1–JDBC_Avanzado-Pool_DDL-DML_Consultas_Procedimientos_y_Transacciones.md)
 
-- [Tema2–Pool_de_Conexiones_en_JDBC](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema2–Pool_de_Conexiones_en_JDBC.md)
+- [Tema2–Pool_de_Conexiones_en_JDBC](Tema2–Pool_de_Conexiones_en_JDBC.md)
 
-- [Tema3–Ejecución_de_sentencias_DDL_y_DML_con_JDBC](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema3–Ejecución_de_sentencias_DDL_y_DML_con_JDBC.md)
+- [Tema3–Ejecución_de_sentencias_DDL_y_DML_con_JDBC](Tema3–Ejecución_de_sentencias_DDL_y_DML_con_JDBC.md)
 
-- [Tema4–Consultas_avanzadas_con_JDBC-ResultSet_y_Metadatos](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema4–Consultas_avanzadas_con_JDBC-ResultSet_y_Metadatos.md)
+- [Tema4–Consultas_avanzadas_con_JDBC-ResultSet_y_Metadatos](Tema4–Consultas_avanzadas_con_JDBC-ResultSet_y_Metadatos.md)
 
-- [Tema5–Procedimientos_almacenados_con_JDBC](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema5–Procedimientos_almacenados_con_JDBC.md)
+- [Tema5–Procedimientos_almacenados_con_JDBC](Tema5–Procedimientos_almacenados_con_JDBC.md)
 
-- [Tema6–Gestión_de_Transacciones_en_JDBC](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema6–Gestión_de_Transacciones_en_JDBC.md)
+- [Tema6–Gestión_de_Transacciones_en_JDBC](Tema6–Gestión_de_Transacciones_en_JDBC.md)
 
-- [Tema7–Ejemplos_prácticos_integrados_y_comparativa_final_de_JDBC_Avanzado](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema7–Ejemplos_prácticos_integrados_y_comparativa_final_de_JDBC_Avanzado.md)
+- [Tema7–Ejemplos_prácticos_integrados_y_comparativa_final_de_JDBC_Avanzado](Tema7–Ejemplos_prácticos_integrados_y_comparativa_final_de_JDBC_Avanzado.md)
 
 ## Extra
 
-- [Tema8–Introducción_a_MAVEN](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Extra/Tema8–Introducción_a_MAVEN.md)
+- [Tema8–Introducción_a_MAVEN](Extra/Tema8–Introducción_a_MAVEN.md)
 
-- [Actividad_Maven](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Extra/Actividad_Maven.md)
+- [Actividad_Maven](Extra/Actividad_Maven.md)
 
 ### Guía Proyecto TechDAM
 
-- [-Enlace_al_proyecto](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/-Enlace_al_proyecto.md)
+- [-Enlace_al_proyecto](Guía_Proyecto_TechDAM/-Enlace_al_proyecto.md)
 
-- [Bloque0-Introducción](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque0-Introducción.md)
+- [Bloque0-Introducción](/Guía_Proyecto_TechDAM/Bloque0-Introducción.md)
 
-- [Bloque1-Arquitectura_JDBC_y_Drivers](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque1-Arquitectura_JDBC_y_Drivers.md)
+- [Bloque1-Arquitectura_JDBC_y_Drivers](Guía_Proyecto_TechDAM/Bloque1-Arquitectura_JDBC_y_Drivers.md)
 
-- [Bloque2-JDBC_Básico_vs_Avanzado](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque2-JDBC_Básico_vs_Avanzado.md)
+- [Bloque2-JDBC_Básico_vs_Avanzado](Bloque2-JDBC_Básico_vs_Avanzado.md)
 
-- [Bloque3-Ejecución_de_Sentencias_DDL_y_DML_con_JDBC](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque3-Ejecución_de_Sentencias_DDL_y_DML_con_JDBC.md)
+- [Bloque3-Ejecución_de_Sentencias_DDL_y_DML_con_JDBC](Bloque3-Ejecución_de_Sentencias_DDL_y_DML_con_JDBC.md)
 
-- [Bloque4-Consultas_Avanzadas_con_ResultSet_y_Metadatos](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque4-Consultas_Avanzadas_con_ResultSet_y_Metadatos.md)
+- [Bloque4-Consultas_Avanzadas_con_ResultSet_y_Metadatos](Bloque4-Consultas_Avanzadas_con_ResultSet_y_Metadatos.md)
 
-- [Bloque5-Procedimientos_Almacenados_con_CallableStatement](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque5-Procedimientos_Almacenados_con_CallableStatement.md)
+- [Bloque5-Procedimientos_Almacenados_con_CallableStatement](Bloque5-Procedimientos_Almacenados_con_CallableStatement.md)
 
-- [Bloque6-Gestión_de_Transacciones_con_JDBC](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque6-Gestión_de_Transacciones_con_JDBC.md)
+- [Bloque6-Gestión_de_Transacciones_con_JDBC](Bloque6-Gestión_de_Transacciones_con_JDBC.md)
 
-- [Bloque7-Pool_de_Conexiones_con_HikariCP](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque7-Pool_de_Conexiones_con_HikariCP.md)
+- [Bloque7-Pool_de_Conexiones_con_HikariCP](Bloque7-Pool_de_Conexiones_con_HikariCP.md)
 
- - [Bloque8-Ejemplo_Integrado-Sistema_TechDAM_Completo](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque8-Ejemplo_Integrado-Sistema_TechDAM_Completo.md)
+ - [Bloque8-Ejemplo_Integrado-Sistema_TechDAM_Completo](Guía_Proyecto_TechDAM/Bloque8-Ejemplo_Integrado-Sistema_TechDAM_Completo.md)
 
- - [Bloque9-Actividad_Global_de_Evaluación-Proyecto_TechDAM](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque9-Actividad_Global_de_Evaluación-Proyecto_TechDAM.md)
+ - [Bloque9-Actividad_Global_de_Evaluación-Proyecto_TechDAM](Guía_Proyecto_TechDAM/Bloque9-Actividad_Global_de_Evaluación-Proyecto_TechDAM.md)
 
- - [Bloque10-Anexos_y_Referencias](Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque10-Anexos_y_Referencias.md)
+ - [Bloque10-Anexos_y_Referencias](Bloque10-Anexos_y_Referencias.md)
 
 > [!Actividades]
 > https://github.com/IrisCampusFP/ActividadesAccesoADatos/tree/main/UD2-JDBC_Avanzado

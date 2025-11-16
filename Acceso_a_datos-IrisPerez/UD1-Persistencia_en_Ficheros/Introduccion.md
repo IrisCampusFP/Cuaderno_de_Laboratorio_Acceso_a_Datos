@@ -92,11 +92,11 @@ La **persistencia en ficheros** permite almacenar información de forma permanen
 
 ### Anexos:
 
-- [Recomendaciones_sobre_el_uso_de_Scanner_en_Java](Recomendaciones_sobre_el_uso_de_Scanner_en_Java)
+- [Recomendaciones_sobre_el_uso_de_Scanner_en_Java](Recomendaciones_sobre_el_uso_de_Scanner_en_Java.md)
 
-- [Actividad_ArrayList-Repaso](Actividad_ArrayList-Repaso)
+- [Actividad_ArrayList-Repaso](Actividad_ArrayList-Repaso.md)
 
-- [Exportación_de_datos-CSV_XML_JSON](Exportación_de_datos-CSV_XML_JSON)
+- [Exportación_de_datos-CSV_XML_JSON](Exportación_de_datos-CSV_XML_JSON.md)
 
 
 > [!Actividades]
