@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Introducción.md",
+                "file": "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Extra/Proyecto_GitHub-UF2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción"
+              "title": "Proyecto_GitHub-UF2"
             }
           }
         ],
@@ -271,8 +271,13 @@
   },
   "active": "c6769856013f86f1",
   "lastOpenFiles": [
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque0-Introducción.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Extra/Actividad_Maven.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Extra/Proyecto_GitHub-UF2.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque1-Arquitectura_JDBC_y_Drivers.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque8-Ejemplo_Integrado-Sistema_TechDAM_Completo.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque9-Actividad_Global_de_Evaluación-Proyecto_TechDAM.md",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Introducción.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque0-Introducción.md",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Introduccion.md",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema1–JDBC_Avanzado-Pool_DDL-DML_Consultas_Procedimientos_y_Transacciones.md",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque3-Ejecución_de_Sentencias_DDL_y_DML_con_JDBC.md",
@@ -287,17 +292,12 @@
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque5-Procedimientos_Almacenados_con_CallableStatement.md",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque4-Consultas_Avanzadas_con_ResultSet_y_Metadatos.md",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/ActividadesUD2.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque1-Arquitectura_JDBC_y_Drivers.md",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque10-Anexos_y_Referencias.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque9-Actividad_Global_de_Evaluación-Proyecto_TechDAM.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque8-Ejemplo_Integrado-Sistema_TechDAM_Completo.md",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque7-Pool_de_Conexiones_con_HikariCP.md",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque6-Gestión_de_Transacciones_con_JDBC.md",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/-Enlace_al_proyecto.md",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque2-JDBC_Básico_vs_Avanzado.md",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Extra/Tema8–Introducción_a_MAVEN.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Extra/Actividad_Maven.md",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/img",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Extra",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado",
