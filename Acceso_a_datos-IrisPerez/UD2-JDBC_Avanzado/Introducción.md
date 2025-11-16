@@ -215,23 +215,23 @@ Un sistema de gestión de empleados y proyectos combina:
 
 - [Bloque1-Arquitectura_JDBC_y_Drivers](Guía_Proyecto_TechDAM/Bloque1-Arquitectura_JDBC_y_Drivers.md)
 
-- [Bloque2-JDBC_Básico_vs_Avanzado](Bloque2-JDBC_Básico_vs_Avanzado.md)
+- [Bloque2-JDBC_Básico_vs_Avanzado](Guía_Proyecto_TechDAM/Bloque2-JDBC_Básico_vs_Avanzado.md)
 
-- [Bloque3-Ejecución_de_Sentencias_DDL_y_DML_con_JDBC](Bloque3-Ejecución_de_Sentencias_DDL_y_DML_con_JDBC.md)
+- [Bloque3-Ejecución_de_Sentencias_DDL_y_DML_con_JDBC](Guía_Proyecto_TechDAM/Bloque3-Ejecución_de_Sentencias_DDL_y_DML_con_JDBC.md)
 
-- [Bloque4-Consultas_Avanzadas_con_ResultSet_y_Metadatos](Bloque4-Consultas_Avanzadas_con_ResultSet_y_Metadatos.md)
+- [Bloque4-Consultas_Avanzadas_con_ResultSet_y_Metadatos](Guía_Proyecto_TechDAM/Bloque4-Consultas_Avanzadas_con_ResultSet_y_Metadatos.md)
 
-- [Bloque5-Procedimientos_Almacenados_con_CallableStatement](Bloque5-Procedimientos_Almacenados_con_CallableStatement.md)
+- [Bloque5-Procedimientos_Almacenados_con_CallableStatement](Guía_Proyecto_TechDAM/Bloque5-Procedimientos_Almacenados_con_CallableStatement.md)
 
-- [Bloque6-Gestión_de_Transacciones_con_JDBC](Bloque6-Gestión_de_Transacciones_con_JDBC.md)
+- [Bloque6-Gestión_de_Transacciones_con_JDBC](Guía_Proyecto_TechDAM/Bloque6-Gestión_de_Transacciones_con_JDBC.md)
 
-- [Bloque7-Pool_de_Conexiones_con_HikariCP](Bloque7-Pool_de_Conexiones_con_HikariCP.md)
+- [Bloque7-Pool_de_Conexiones_con_HikariCP](Guía_Proyecto_TechDAM/Bloque7-Pool_de_Conexiones_con_HikariCP.md)
 
  - [Bloque8-Ejemplo_Integrado-Sistema_TechDAM_Completo](Guía_Proyecto_TechDAM/Bloque8-Ejemplo_Integrado-Sistema_TechDAM_Completo.md)
 
  - [Bloque9-Actividad_Global_de_Evaluación-Proyecto_TechDAM](Guía_Proyecto_TechDAM/Bloque9-Actividad_Global_de_Evaluación-Proyecto_TechDAM.md)
 
- - [Bloque10-Anexos_y_Referencias](Bloque10-Anexos_y_Referencias.md)
+ - [Bloque10-Anexos_y_Referencias](Guía_Proyecto_TechDAM/Bloque10-Anexos_y_Referencias.md)
 
 > [!Actividades]
 > https://github.com/IrisCampusFP/ActividadesAccesoADatos/tree/main/UD2-JDBC_Avanzado
