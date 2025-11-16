@@ -8,269 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e56e5cfbd06adcd",
+            "id": "2f217403f8f99845",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T6-Lectura_y_escritura_de_Ficheros_XML.md",
+                "file": "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema4–Consultas_avanzadas_con_JDBC-ResultSet_y_Metadatos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T6-Lectura_y_escritura_de_Ficheros_XML"
+              "title": "Tema4–Consultas_avanzadas_con_JDBC-ResultSet_y_Metadatos"
             }
           },
           {
-            "id": "93cdc98f7c8304d6",
+            "id": "574a36b88a1851da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T6.1-Procesamiento_XML_con_DOM.md",
+                "file": "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Extra/Tema8–Introducción_a_MAVEN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T6.1-Procesamiento_XML_con_DOM"
+              "title": "Tema8–Introducción_a_MAVEN"
             }
           },
           {
-            "id": "5e820f63af669758",
+            "id": "77a4f0bdc72ccc8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T6.1-Procesamiento_XML_con_DOM.md",
+                "file": "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/-Enlace_al_proyecto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T6.1-Procesamiento_XML_con_DOM"
+              "title": "-Enlace_al_proyecto"
             }
           },
           {
-            "id": "0702bd5a6f6fe78f",
+            "id": "d1ce0a59185c4fea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T2-Gestión_de_Ficheros_y_Directorios_con_la_Clase_File.md",
+                "file": "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque0-Introducción.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T2-Gestión_de_Ficheros_y_Directorios_con_la_Clase_File"
+              "title": "Bloque0-Introducción"
             }
           },
           {
-            "id": "48a85207f8a0923a",
+            "id": "28e61a9854a80759",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T7.1-Profundización_en_JAXP.md",
+                "file": "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque3-Ejecución_de_Sentencias_DDL_y_DML_con JDBC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T7.1-Profundización_en_JAXP"
+              "title": "Bloque3-Ejecución_de_Sentencias_DDL_y_DML_con JDBC"
             }
           },
           {
-            "id": "e23891b7c885b1a3",
+            "id": "e51f3c8bcb548f8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T7.2-XPath_en_profundidad.md",
+                "file": "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Introducción.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T7.2-XPath_en_profundidad"
-            }
-          },
-          {
-            "id": "660c7427bd3fdbbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Anexos/Recomendaciones_sobre_el_uso_de_Scanner_en_Java.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recomendaciones_sobre_el_uso_de_Scanner_en_Java"
-            }
-          },
-          {
-            "id": "648226dc5f46c5f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T6.1-Procesamiento_XML_con_DOM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "T6.1-Procesamiento_XML_con_DOM"
-            }
-          },
-          {
-            "id": "cc98957e43b6509a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Introduccion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduccion"
-            }
-          },
-          {
-            "id": "abbb62f80b77ef3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Introduccion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduccion"
-            }
-          },
-          {
-            "id": "563de10ab0efd136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T7.2-XPath_en_profundidad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "T7.2-XPath_en_profundidad"
-            }
-          },
-          {
-            "id": "87740423e8f2c275",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_JAXP_Validacion.png"
-              },
-              "icon": "lucide-image",
-              "title": "ejecucion_JAXP_Validacion"
-            }
-          },
-          {
-            "id": "93f017c9aed5ac4d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_JAXP_SAX.png"
-              },
-              "icon": "lucide-image",
-              "title": "ejecucion_JAXP_SAX"
-            }
-          },
-          {
-            "id": "9ecefe6ca347c2e2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_JAXP_DOM.png"
-              },
-              "icon": "lucide-image",
-              "title": "ejecucion_JAXP_DOM"
-            }
-          },
-          {
-            "id": "2757d5741f14214e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/mapa_mental_jaxp.png"
-              },
-              "icon": "lucide-image",
-              "title": "mapa_mental_jaxp"
-            }
-          },
-          {
-            "id": "da2cc61d5cbed4ec",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_XPathEjemplo.png"
-              },
-              "icon": "lucide-image",
-              "title": "ejecucion_XPathEjemplo"
-            }
-          },
-          {
-            "id": "757ddb23f8cacd8d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_SAXEjemplo.png"
-              },
-              "icon": "lucide-image",
-              "title": "ejecucion_SAXEjemplo"
-            }
-          },
-          {
-            "id": "eebda5f05fb0b35d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_DOMEscribirEjemplo.png"
-              },
-              "icon": "lucide-image",
-              "title": "ejecucion_DOMEscribirEjemplo"
-            }
-          },
-          {
-            "id": "283a1ed8041097f7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_DOMLeerEjemplo.png"
-              },
-              "icon": "lucide-image",
-              "title": "ejecucion_DOMLeerEjemplo"
-            }
-          },
-          {
-            "id": "19bbbc909e46929f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_LeerXML_DOM.png"
-              },
-              "icon": "lucide-image",
-              "title": "ejecucion_LeerXML_DOM"
+              "title": "Introducción"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -419,30 +241,38 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "563de10ab0efd136",
+  "active": "e51f3c8bcb548f8f",
   "lastOpenFiles": [
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T7.1-Profundización_en_JAXP.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T7-JAXP_XPath_y_Manipulación_Avanzada_de_XML.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T6.2-Procesamiento_XML_con_SAX.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T6.1-Procesamiento_XML_con_DOM.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T6-Lectura_y_escritura_de_Ficheros_XML.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T5-Ficheros_Binarios_y_Serialización_de_Objetos.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T4.1-Alternativa_moderna_con_NIO.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T4-Acceso_Aleatorio_a_Ficheros.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T3-Lectura_y_Escritura_Secuencial_de_Ficheros.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema2–Pool_de_Conexiones_en_JDBC.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema1–JDBC_Avanzado-Pool_DDL-DML_Consultas_Procedimientos_y_Transacciones.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Relación_de_la_Actividad_Global_con_RA_y_CE.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Introducción.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Cuadro_Global–UD2-JDBC_Avanzado.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema7–Ejemplos_prácticos_integrados_y_comparativa_final_de_JDBC_Avanzado.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema6–Gestión_de_Transacciones_en_JDBC.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema5–Procedimientos_almacenados_con_JDBC.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema4–Consultas_avanzadas_con_JDBC-ResultSet_y_Metadatos.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema3–Ejecución_de_sentencias_DDL_y_DML_con JDBC.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque5-Procedimientos_Almacenados_con_CallableStatement.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque4-Consultas_Avanzadas_con_ResultSet_y_Metadatos.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/ActividadesUD2.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque1-Arquitectura_JDBC_y_Drivers.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque10-Anexos_y_Referencias.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque9-Actividad_Global_de_Evaluación-Proyecto_TechDAM.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque8-Ejemplo_Integrado-Sistema_TechDAM_Completo.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque7-Pool_de_Conexiones_con_HikariCP.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque6-Gestión_de_Transacciones_con_JDBC.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/-Enlace_al_proyecto.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque3-Ejecución_de_Sentencias_DDL_y_DML_con JDBC.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque2-JDBC_Básico_vs_Avanzado.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque0-Introducción.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Extra/Tema8–Introducción_a_MAVEN.md",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Extra/Actividad_Maven.md",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T2-Gestión_de_Ficheros_y_Directorios_con_la_Clase_File.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T1-Introducción_a_la_Persistencia_en_Ficheros.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Introduccion.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Anexos/Recomendaciones_sobre_el_uso_de_Scanner_en_Java.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Anexos/Exportación_de_datos-CSV_XML_JSON.md",
-    "Acceso_a_datos-IrisPerez/UD0-Solicitar_packs_de_estudiante/Solicitud_JetBrains_Student.md",
-    "Acceso_a_datos-IrisPerez/UD0-Solicitar_packs_de_estudiante/Solicitud_GitHub_Student.md",
-    "contenidos.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Extra-La_clase_Scanner_en_Java.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/ActividadesUD1.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Anexos/Actividad_ArrayList-Repaso.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/T7.2-XPath_en_profundidad.md",
-    "Sin nombre",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/img",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Extra",
+    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_JAXP_DOM.png",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/mapa_mental_jaxp.png",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_XPathAvanzado.png",
@@ -453,20 +283,12 @@
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_DOMEscribirEjemplo.png",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_SAXEjemplo.png",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion2_DOMLeerEjemplo.png",
-    "Pasted.md",
-    "Acceso_a_datos_IrisPerez/UD0 - Solicitar packs de estudiante/Solicitud GitHub Student.md",
-    "Acceso_a_datos-IrisPerez/UD1 - Persistencia en Ficheros/T1 - Introducción a la persistencia en Ficheros/ApuntesT1.md",
-    "Acceso_a_datos-IrisPerez/UD1 - Persistencia en Ficheros/Actividades/T1.1_LecturaSecuencial_y_AccesoAleatorio.md",
     "Acceso_a_datos-IrisPerez/UD1 - Persistencia en Ficheros/T1 - Introducción a la persistencia en Ficheros",
     "Acceso_a_datos-IrisPerez/UD1 - Persistencia en Ficheros/Actividades",
-    "Acceso_a_datos-IrisPerez/UD0 - Solicitar packs de estudiante/Solicitud JetBrains Student Pack.md",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros",
     "Acceso_a_datos-IrisPerez/UD0-Solicitar_packs_de_estudiante",
     "Acceso_a_datos-IrisPerez/img",
     "Acceso_a_datos-IrisPerez",
-    "Acceso_a_datos_IrisPerez/UD1 - Persistencia en Ficheros/Actividades",
-    "Acceso_a_datos_IrisPerez/UD1 - Persistencia en Ficheros/T1 - Introducción a la persistencia en Ficheros",
-    "Acceso_a_datos_IrisPerez/UD1 - Persistencia en Ficheros",
     "Sin título.canvas",
     "Sin título 2.canvas",
     "Sin título 1.canvas"
