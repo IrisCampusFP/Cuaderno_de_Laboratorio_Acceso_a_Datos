@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema4–Consultas_avanzadas_con_JDBC-ResultSet_y_Metadatos.md",
+                "file": "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Tema8-Pruebas_y_Documentación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tema4–Consultas_avanzadas_con_JDBC-ResultSet_y_Metadatos"
+              "title": "Tema8-Pruebas_y_Documentación"
             }
           },
           {
@@ -111,16 +111,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Extra/Proyecto_GitHub-UF2.md",
+                "file": "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Introducción.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proyecto_GitHub-UF2"
+              "title": "Introducción"
+            }
+          },
+          {
+            "id": "d7c18f57af4726ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Bloque3-Gestión_de_Transacciones_en_JPA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bloque3-Gestión_de_Transacciones_en_JPA"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,34 +282,38 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "c6769856013f86f1",
+  "active": "2f217403f8f99845",
   "lastOpenFiles": [
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Extra/Actividad_Maven.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Extra/Proyecto_GitHub-UF2.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque1-Arquitectura_JDBC_y_Drivers.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque8-Ejemplo_Integrado-Sistema_TechDAM_Completo.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque9-Actividad_Global_de_Evaluación-Proyecto_TechDAM.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Introducción.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque0-Introducción.md",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/Introduccion.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema1–JDBC_Avanzado-Pool_DDL-DML_Consultas_Procedimientos_y_Transacciones.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque3-Ejecución_de_Sentencias_DDL_y_DML_con_JDBC.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema3–Ejecución_de_sentencias_DDL_y_DML_con_JDBC.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema2–Pool_de_Conexiones_en_JDBC.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Relación_de_la_Actividad_Global_con_RA_y_CE.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Cuadro_Global–UD2-JDBC_Avanzado.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema7–Ejemplos_prácticos_integrados_y_comparativa_final_de_JDBC_Avanzado.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema6–Gestión_de_Transacciones_en_JDBC.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema5–Procedimientos_almacenados_con_JDBC.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Tema4–Consultas_avanzadas_con_JDBC-ResultSet_y_Metadatos.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque5-Procedimientos_Almacenados_con_CallableStatement.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque4-Consultas_Avanzadas_con_ResultSet_y_Metadatos.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/ActividadesUD2.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque10-Anexos_y_Referencias.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque7-Pool_de_Conexiones_con_HikariCP.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque6-Gestión_de_Transacciones_con_JDBC.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/-Enlace_al_proyecto.md",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM/Bloque2-JDBC_Básico_vs_Avanzado.md",
+    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Tema7-Gestión_de_Transacciones.md",
+    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Tema8-Pruebas_y_Documentación.md",
+    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Tema6-Modificación_de_Objetos_Almacenados.md",
+    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Tema5-Consultas_sobre_Objetos.md",
+    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Tema4_Persistencia_de_Objetos_Estructurados.md",
+    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Tema3-Persistencia_de_Objetos_Simples.md",
+    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Tema2-Conexión_a_Bases_de_Datos_Objeto-Relacionales.md",
+    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Tema1-Fundamentos_de_Bases_de_Datos_Orientadas_a_Objetos.md",
+    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Introducción.md",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-Spring_Data_JPA.md",
+    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-JPQL.md",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-Hibernate_ORM.md",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-Tecnicas_Avanzadas_JPA.md",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-Transacciones_JPA.md",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-Criteria_API.md",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-Ciclo_de_Vida_de_Entidades.md",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-Mapeo_Avanzado_con_JPA.md",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-Fundamentos_de_ORM_y_JPA.md",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Lombok-Reduccion_de_Codigo_Repetitivo.md",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Seguridad_y_Enrutado_por_Roles_con_Spring_Security.md",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Aplicaciones_Web_con_Spring_Boot.md",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/MasterClass-Tecnologías_para_un_Sistema_CRUD_de_Login.md",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Spring_Data_JPA.md",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Hibernate-Framework_ORM_para_Java.md",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Bloque6-Tecnicas_Avanzadas_JPA-Auditoria_Validacion_y_Optimizacion.md",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Bloque3-Gestión_de_Transacciones_en_JPA.md",
+    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional",
+    "Acceso_a_datos-IrisPerez/Spring_Boot-Manual_Completo",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/img",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Extra",
@@ -313,10 +330,6 @@
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion2_DOMLeerEjemplo.png",
     "Acceso_a_datos-IrisPerez/UD1 - Persistencia en Ficheros/T1 - Introducción a la persistencia en Ficheros",
     "Acceso_a_datos-IrisPerez/UD1 - Persistencia en Ficheros/Actividades",
-    "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros",
-    "Acceso_a_datos-IrisPerez/UD0-Solicitar_packs_de_estudiante",
-    "Acceso_a_datos-IrisPerez/img",
-    "Acceso_a_datos-IrisPerez",
     "Sin título.canvas",
     "Sin título 2.canvas",
     "Sin título 1.canvas"
