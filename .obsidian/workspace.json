@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "2a587c6a5ad4fe15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Tema8-Pruebas_y_Documentacion_de_Componentes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tema8-Pruebas_y_Documentacion_de_Componentes"
+            }
+          },
+          {
             "id": "574a36b88a1851da",
             "type": "leaf",
             "state": {
@@ -133,7 +147,8 @@
               "title": "Bloque3-Gestión_de_Transacciones_en_JPA"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,42 +297,44 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "2f217403f8f99845",
+  "active": "2a587c6a5ad4fe15",
   "lastOpenFiles": [
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Tema7-Integracion_de_Componentes_en_Aplicaciones.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Tema6-Seguridad_con_Spring_Security.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Tema5-Servicios_REST_con_Spring_MVC.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Tema4-Acceso_a_Datos_con_Spring_Data_JPA.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Tema3-Desarrollo_con_Spring_Boot.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Tema2-Introduccion_a_Spring_Framework.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Tema1-Fundamentos_de_Programacion_Orientada_a_Componentes.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Introducción.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Actividades_Prácticas/Actividad1-Fundamentos_de_Componentes.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Actividades_Prácticas/Actividad8-Proyecto_Final-API_Biblioteca_Completa.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Actividades_Prácticas/Actividad7-Pruebas_y_Documentacion.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Actividades_Prácticas/Actividad6-Integracion_de_Componentes.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Actividades_Prácticas/Actividad5-Seguridad_en_Aplicaciones.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Actividades_Prácticas/Actividad4-API_REST_con_Spring_MVC.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Actividades_Prácticas/Actividad3-Repositorios_con_Spring_Data_JPA.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Actividades_Prácticas/Actividad2-Primer_Proyecto_Spring_Boot.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Tema8-Pruebas_y_Documentacion_de_Componentes.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Actividades_Prácticas",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos/Sin título.md",
+    "Acceso_a_datos-IrisPerez/UD5-Bases_de_Datos_XML_Nativas/Tema1-Fundamentos_de_Bases_de_Datos_XML_Nativas.md",
+    "Acceso_a_datos-IrisPerez/UD6-Programacion_de_Componentes_de_Acceso_a_Datos",
+    "Acceso_a_datos-IrisPerez/UD5-Bases_de_Datos_XML_Nativas/Tema6-Librerias_de_Acceso_a_Datos_XML.md",
+    "Acceso_a_datos-IrisPerez/UD5-Bases_de_Datos_XML_Nativas/Tema5-Modificacion_de_Informacion_XML.md",
+    "Acceso_a_datos-IrisPerez/UD5-Bases_de_Datos_XML_Nativas/Tema4-Consultas_con_XQuery_y_XPath.md",
+    "Acceso_a_datos-IrisPerez/UD5-Bases_de_Datos_XML_Nativas/Tema3-Almacenamiento_de_Informacion_XML.md",
+    "Acceso_a_datos-IrisPerez/UD5-Bases_de_Datos_XML_Nativas/Tema2-Conexion_a_Bases_de_Datos_XML_Nativas.md",
+    "Acceso_a_datos-IrisPerez/UD5-Bases_de_Datos_XML_Nativas/Introducción.md",
+    "Acceso_a_datos-IrisPerez/UD5-Bases_de_Datos_XML_Nativas",
     "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Tema7-Gestión_de_Transacciones.md",
-    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Tema8-Pruebas_y_Documentación.md",
-    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Tema6-Modificación_de_Objetos_Almacenados.md",
-    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Tema5-Consultas_sobre_Objetos.md",
-    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Tema4_Persistencia_de_Objetos_Estructurados.md",
-    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Tema3-Persistencia_de_Objetos_Simples.md",
-    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Tema2-Conexión_a_Bases_de_Datos_Objeto-Relacionales.md",
-    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Tema1-Fundamentos_de_Bases_de_Datos_Orientadas_a_Objetos.md",
-    "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos/Introducción.md",
-    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-Spring_Data_JPA.md",
     "Acceso_a_datos-IrisPerez/UD4-BBDD_Objeto-Relacionales_y_Orientadas_a_Objetos",
-    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-JPQL.md",
-    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-Hibernate_ORM.md",
-    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-Tecnicas_Avanzadas_JPA.md",
-    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-Transacciones_JPA.md",
-    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-Criteria_API.md",
-    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-Ciclo_de_Vida_de_Entidades.md",
-    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-Mapeo_Avanzado_con_JPA.md",
-    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas/Actividad_Practica-Fundamentos_de_ORM_y_JPA.md",
-    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Lombok-Reduccion_de_Codigo_Repetitivo.md",
     "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Actividades_Practicas",
-    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Seguridad_y_Enrutado_por_Roles_con_Spring_Security.md",
-    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Aplicaciones_Web_con_Spring_Boot.md",
-    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/MasterClass-Tecnologías_para_un_Sistema_CRUD_de_Login.md",
-    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Spring_Data_JPA.md",
-    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Hibernate-Framework_ORM_para_Java.md",
-    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Bloque6-Tecnicas_Avanzadas_JPA-Auditoria_Validacion_y_Optimizacion.md",
-    "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional/Bloque3-Gestión_de_Transacciones_en_JPA.md",
     "Acceso_a_datos-IrisPerez/UD3-Herramientas_de_Mapeo_Objeto-Relacional",
     "Acceso_a_datos-IrisPerez/Spring_Boot-Manual_Completo",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Guía_Proyecto_TechDAM",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/img",
     "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado/Extra",
-    "Acceso_a_datos-IrisPerez/UD2-JDBC_Avanzado",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_JAXP_DOM.png",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/mapa_mental_jaxp.png",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_XPathAvanzado.png",
@@ -328,8 +345,6 @@
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_DOMEscribirEjemplo.png",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion_SAXEjemplo.png",
     "Acceso_a_datos-IrisPerez/UD1-Persistencia_en_Ficheros/img/ejecucion2_DOMLeerEjemplo.png",
-    "Acceso_a_datos-IrisPerez/UD1 - Persistencia en Ficheros/T1 - Introducción a la persistencia en Ficheros",
-    "Acceso_a_datos-IrisPerez/UD1 - Persistencia en Ficheros/Actividades",
     "Sin título.canvas",
     "Sin título 2.canvas",
     "Sin título 1.canvas"
